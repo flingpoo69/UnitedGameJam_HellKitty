@@ -50,7 +50,7 @@
             "Key": "265094ab-e163-4995-9cc3-0cbd3764c8fd",
             "Value": {
                 "id": "af135b41-6934-4d38-a092-7725e65e9967",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\spr_0\\spr_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -154,8 +154,24 @@
             "Key": "ad864fd6-3d05-49f2-83f3-850cf2342706",
             "Value": {
                 "id": "b146e069-f783-4f20-96b2-3a883ee89be4",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_0\\room_0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c1e7eeed-86ee-424f-8261-3148ddfe93c7",
+            "Value": {
+                "id": "b55a7e0c-52f5-42f0-810d-e4b02ba94397",
+                "resourcePath": "objects\\obj_0\\obj_0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c22e79ed-5893-42a1-95c3-71c92184e155",
+            "Value": {
+                "id": "368d4628-a122-47ca-8dca-6b0d1207cd03",
+                "resourcePath": "scripts\\scr_0\\scr_0.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -200,7 +216,7 @@
         }
     ],
     "script_order": [
-        
+        "c22e79ed-5893-42a1-95c3-71c92184e155"
     ],
     "tutorial": ""
 }
